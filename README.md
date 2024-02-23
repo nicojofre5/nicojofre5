@@ -1,4 +1,4 @@
-### Hi there 👋
+![imagen_de_portada_Github](banner-github.png)
 
 <!--
 **nicojofre5/nicojofre5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
